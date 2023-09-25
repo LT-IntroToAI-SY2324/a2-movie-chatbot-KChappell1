@@ -12,9 +12,16 @@ This assignment is about learning and applying the while loop and iterating thro
 
 ## Reflection Questions
 1. What was difficult for you while completing the match function?
-
-
+While completing the assignment I found it quite frustrating not being able to pass the asserts. 
+I would follow the notes and instructions and skim through all the code looking for mistakes and it still would not work. 
+It was quite challening trying to come up with new systems or methods in order to fix my code so i would work with the asserts. 
+It turned out however that it was not my code but rather the asserts themselves that were not working. 
+Coming to this conclusion was a very important revelation. In doing so I copied over the original asserts and my code ended up working. 
+It is quite intereting how one can do everything well but if what's being tested on is incorrect nothing will work. 
 
 2. Explain how you could use the match function for extracting information from a movie database.
-
+With the match function you would type out common questions and have them match with the preset data base.
+You could turn the database into basically an answer generator for questions. 
+Also, there could be instances where you just want to see what you left out so you may type a list of movies from such and such era and it could return what you have missed. 
+The match function could be useful as a quick refence tool. 
 
